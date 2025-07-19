@@ -128,7 +128,7 @@ Playgrounds로 돌아가 **Real-time audio playground**를 선택한 후 **Try t
 1. **Deployment**: 이미지 생성을 위한 모델을 선택할 수 있습니다.
 1. **Instructions Box**: 사용자와 상호작용하기 전에 모델에 대한 지침을 입력하는 공간입니다.
 
-![](../../../../lab/Workshop Instructions/Images/agents-playground-pt2.jpeg)
+![](../../../../lab/Workshop%20Instructions/Images/agents-playground-pt2.jpeg)
 
 4. **Knowledge**: 에이전트가 응답을 기반으로 할 데이터 소스에 접근할 수 있도록 합니다.
 1. **Actions**: 실행 시간에 다양한 도구를 사용할 수 있도록 에이전트의 기능을 확장합니다.
